@@ -13,7 +13,7 @@ As for the rest of our code, all of it is written in python.
 
 
 
-"embedder.py" is used by the embedding macro in the dataset manager, but could also be used to embed text on the command line. The embedding script takes two parameters, and input file path and an output file path. In our macro, this is done in a shell script as "python path/to/embedder.py path/to/input.json path/to/output.json". Obviously, this requires python to be on PATH and a computer that can run python.
+"embedder.py" is used by the embedding macro in the dataset manager, but could also be used to embed text on the command line. The embedding script takes two parameters, an input file path and an output file path. In our macro, this is done in a shell script as "python path/to/embedder.py path/to/input.json path/to/output.json". Obviously, this requires python to be on PATH and a computer that can run python.
 
 
 
