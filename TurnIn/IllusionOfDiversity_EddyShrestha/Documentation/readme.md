@@ -2,5 +2,5 @@ For a list of papers read in our literature review, check out the references sec
 
 
 
-We have not included them here to avoid copyright troubles, whether or not the papers are publicly available.
+You can also find them in the "Papers" subdirectory. All papers are publicly available through arxiv.
 
